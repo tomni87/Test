@@ -1,0 +1,13 @@
+.vs
+
+# .netcore bin obj
+/bin
+/obj
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.csproj.user
